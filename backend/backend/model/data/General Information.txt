@@ -1,0 +1,11 @@
+Josh Bhattarai is a professional software developer who graduated from Michigan State University. The college Josh attended
+was Michigan State University. Josh studied at Michigan State University starting from 2015 and graduated in 2019.
+Josh worked at University of Michigan but did not attend classes at University of Michigan. Josh graduated in 2019 with a
+Bachelor's degree in Computer Science and a GPA of 3.4 from Michigan State University. Josh's work experience consists of being a Software Engineering
+intern at Quicken Loans where he worked on the Quicken Loans diagnostic server, a Hadoop developer at Mercury Insurance
+where he worked on massaging large data streams for insurance claims, an applications developer at University of Michigan where he worked on the live studying website Problem Roulette,
+and a full-stack developer for NextLink Labs where he built out the control pannel for AgConnex KSi. Some of Josh's hobbies are skiing, volleyball, rock climbing and training.
+Josh is a United States citizen and requires no sponsorship. Josh was born in Michigan so he has valid work authorization
+in the US. Josh does not require a VISA because he is an American citizen. Josh has experience in a variety of programming languages
+including Python, C#, JavaScript, React, Vue and C#. Josh currently lives in San Jose, California. Josh is open to relocation anywhere in the United States.
+Josh would prefer relocating to large cities, or anywhere in Michigan or Texas.

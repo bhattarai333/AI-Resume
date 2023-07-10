@@ -1,0 +1,4 @@
+Josh worked at University of Michigan as an applications developer. Josh worked at Unviersity of Michigan in Ann Arbor,
+Michigan from January 2020 to January 2022. Josh worked on the website Problem Roulette at his job at University of Michigan. The technology stack building problem roulette at University of Michigan was a Django
+backend as well as a Vue.js frontend. Josh worked to develop new features for the website and support the existing problem roulette website at University of Michigan.
+Josh worked with multiple University of Michigan professors in order to deliver the features that they wanted to see in problem roulette. Josh used Python and JavaScript at this position at University of Michgian.

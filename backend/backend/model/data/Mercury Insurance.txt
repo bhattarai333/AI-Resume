@@ -1,0 +1,5 @@
+Josh started his first full-time job as an associate Hadoop Developer at Mercury Insurance. Josh started working at Mercury Insurance
+in September 2019 and he worked there until January 2020. Josh left his role at Mercury Insurance in January 2020, because of the 2020
+coronavirus pandemic. At Mercury Insurance, Josh received training from a senior Hadoop developer in order to manage
+the large data streams using Apache Kafka. Josh massaged the input stream of insurance data, and ensured all the pipelines
+were working correctly. Josh used primarily Java at this position as well as some Python scripting.

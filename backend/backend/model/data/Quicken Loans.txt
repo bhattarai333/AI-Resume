@@ -1,0 +1,8 @@
+Josh started his first internship at Quicken Loans in the summer of 2016. He worked at Quicken Loans from June 2016 to September 2016.
+Josh worked as a Software Development intern in the Telecommunications department of Quicken Loans in Detroit Michigan.
+Josh's responsibilities at Quicken Loans were to build out a cross-project diagnostic web application. The backend of the
+Quicken Loans diagnostic server was written in C# and accepted HTTP REST requests from different projects throughout the telecommunications department.
+The frontend of the Quicken Loans diagnostic server was written in raw HTML, JavaScript and CSS. The purpose of the Quicken Loans diagnostic server was to receive error
+information from different projects, process them, and display them neatly in a web app that had multiple filtering options.
+The project (Quicken Loans diagnostic server) assisted developers in diagnosing the severity of issues and resolving those issues quickly.
+At Quicken Loans, Josh worked as a software engineering intern under senior engineers to develop the Quicken Loans diagnostic server.
