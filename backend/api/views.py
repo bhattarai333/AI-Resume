@@ -31,7 +31,7 @@ class MessageView(View):
 
     def process_message(self, message):
         response = self.bert_model.generate(message)
-        pprint.pprint(response['answers'])
+        pprint.pprint(response)
         return response['answers'][0].answer
 
 message_view = MessageView.as_view()
