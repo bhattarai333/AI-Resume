@@ -22,12 +22,15 @@ class Bert:
 
         print("Done indexing")
 
-        retriever = BM25Retriever(document_store=document_store, top_k=2)
+        retriever = BM25Retriever(document_store=document_store, top_k=1)
 
         lfqa_prompt = PromptTemplate(
-            prompt="Synthesize a comprehensive answer from the following text for the given question."
-                   "Provide any additional information that may be relevant in your own words."
-                   "\n\n Related text: {join(documents)} \n\n Question: {query} \n\n Answer:",
+            prompt="""
+Synthesize a comprehensive answer from the following most relevant paragraphs and the given question.
+Provide a clear and concise response that summarizes the key points and information presented in the paragraphs.
+Your answer should be in your own words and be no longer than 100 words.
+\n\n Paragraphs: {join(documents)} \n\n Question: {query} \n\n Answer:
+""",
             output_parser=AnswerParser(),
         )
 
