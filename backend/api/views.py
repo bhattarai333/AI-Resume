@@ -30,8 +30,6 @@ class MessageView(View):
         return JsonResponse({'response': response})
 
     def process_message(self, message):
-        response = self.bert_model.generate(message)
-        pprint.pprint(response)
-        return response['answers'][0].answer
+        return self.bert_model.generate(message)
 
 message_view = MessageView.as_view()
