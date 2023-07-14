@@ -1,0 +1,11 @@
+bind = "0.0.0.0:443"
+workers = 3
+accesslog = "/root/logs/gunicorn.access.log"
+errorlog = "/root/logs/gunicorn.info.log"
+capture_output = True
+loglevel = "debug"
+graceful_timeout = 900
+timeout = 900
+certfile = "/root/JoshBhattaraiCom/cert/certificate.crt"
+keyfile = "/root/JoshBhattaraiCom/cert/private.key"
+#ca_certs = "/root/AI_Resume/cert/ca_bundle.crt"
